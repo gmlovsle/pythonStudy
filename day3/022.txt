@@ -1,0 +1,4 @@
+1,zhanggenming,25,18180820306,IT,2010-6-6
+2,zhanggenming,25,18180820306,IT,2010-6-6
+3,zhanggenming,20,18180820306,IT,2010-6-6
+4,Yangshenglan,,181818181818,,

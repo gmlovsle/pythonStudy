@@ -34,7 +34,7 @@ def bbs():
     print("Welcome to bbs page！")
 
 index()
-print(home())
+print(home(5))
 bbs()
 
 

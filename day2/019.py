@@ -67,7 +67,7 @@ def menu(data,number):
     while flag==1:
         for i in data:
             a = "\t" + i
-            print(a.expandtabs(tabsize=number * 5 - 5))
+            print(a)
         choice = input("选择进入%s>>:" %number)
         if choice in data:
             menu(data[choice],number+1)

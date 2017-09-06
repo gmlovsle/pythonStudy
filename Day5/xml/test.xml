@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<personinfolist>
+    <personinfo enrolled="yes">
+        <name>zgm</name>
+        <age checked="no" />
+        <sex>33</sex></personinfo><personinfo enrolled="no"><age>19</age></personinfo></personinfolist>

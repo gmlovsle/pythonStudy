@@ -1,7 +1,6 @@
 #!/usr/bin/env puthon
 # -*- coding:utf-8 -*-
 # Author:Genming Zhang
-import getpass
 
 _username="zhanggenming"
 _password="123456"
